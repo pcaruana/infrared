@@ -5,7 +5,7 @@
 # or set env var VIRTUALENV_NO_DOWNLOAD=1
 six
 # ----
-setuptools>=11.3
+setuptools>=70.0.0
 pip
 shade==1.19.0
 ansible>=2.3.0.0,<2.4.0.0
